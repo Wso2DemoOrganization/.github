@@ -19,21 +19,20 @@ They are designed to be shared, enriched, and reused by the community, customers
 
 ### 🔗 API Management
 Full lifecycle API design, publishing, securing, and monitoring.  
-- [Repository Project link 1](#)  
-- [Repository Project link 2](#)  
-- [Repository Project link 3](#)  
+- [APIM Demo A](https://github.com/Wso2DemoOrganization/APIM-Demo-A)   
+- [APIM Demo B](https://github.com/Wso2DemoOrganization/APIM-Demo-A) 
+- [APIM Demo C](https://github.com/Wso2DemoOrganization/APIM-Demo-A)  
 
 ### 🔄 Integration
 Connecting systems, applications, and AI agents across environments.  
-- [Repository Project link 1](#)  
-- [Repository Project link 2](#)  
-- [Repository Project link 3](#)  
+- [Kafka Demo](https://github.com/Wso2DemoOrganization/APIM-Demo-A)  
+- [Integration Demo A]([#](https://github.com/Wso2DemoOrganization/Integration-Demo-A))  
+- ... 
 
 ### 🔐 Identity & Access Management (IAM)
 Secure and seamless digital identity experiences.  
-- [Repository Project link 1](#)  
-- [Repository Project link 2](#)  
-- [Repository Project link 3](#)  
+- [Repository Project link 1](https://github.com/Wso2DemoOrganization/APIM-Demo-A)
+- [Repository Project link 2](https://github.com/Wso2DemoOrganization/APIM-Demo-A) 
 
 ---
 
