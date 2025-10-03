@@ -1,12 +1,9 @@
-# 🚀 WSO2 Solution Architecture Demos
-
 <p align="center">
-  <img src="https://wso2.cachefly.net/wso2/sites/all/2024/images/logo-dark.svg" alt="WSO2 Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/Wso2DemoOrganization/.github/refs/heads/main/profile/logo.png" alt="WSO2 Logo"/>
 </p>
 
 <p align="center">
   <b>Reusable demos and blueprints from the WSO2 Solution Architecture team</b><br/>
-  <i>Designed to accelerate digital transformation with APIs, Integration, and IAM</i>
 </p>
 
 ---
